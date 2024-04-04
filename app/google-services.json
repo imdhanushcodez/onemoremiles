@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603054319460",
+    "project_id": "onemoremile-19654",
+    "storage_bucket": "onemoremile-19654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603054319460:android:229309779d04a652e93c71",
+        "android_client_info": {
+          "package_name": "com.example.onemoremile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx72Z53WHFE5m7PoYhbbd2w3gODdNshl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
